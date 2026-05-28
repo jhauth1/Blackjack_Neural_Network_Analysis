@@ -54,9 +54,7 @@ Designed controlled simulation experiments comparing:
 
 The evolved neural-network strategies achieved approximately:
 
-[
-3.25% \text{ improvement in win rate}
-]
+3.25% improvement in win rate compared to the base strategy.
 
 over the baseline rule-based strategy during testing.
 
