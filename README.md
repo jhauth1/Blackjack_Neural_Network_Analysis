@@ -54,7 +54,7 @@ Designed controlled simulation experiments comparing:
 
 The evolved neural-network strategies achieved approximately:
 
-3.25% improvement in win rate compared to the base strategy.
+3.25% improvement in win rate compared to the best base strategy of staying when card value hit 14, which was a 42.064% chance of winning.
 
 over the baseline rule-based strategy during testing.
 
